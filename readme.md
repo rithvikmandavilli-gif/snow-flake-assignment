@@ -1,6 +1,6 @@
 # Snowflake Tutorial Assignment
 
-**Student Name:** Sandeep  
+**Student Name:** M Rithvik 
 **Tool Used:** SnowSQL CLI  
 **Database:** DEMO_DB  
 **Schema:** DEMO_SCHEMA  
