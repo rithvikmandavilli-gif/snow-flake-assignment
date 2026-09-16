@@ -1,6 +1,6 @@
 -- ============================================================
 -- Snowflake Tutorial Assignment Solution
--- Author: Sandeep
+-- Author: M Rithvik
 -- Tool: SnowSQL CLI
 -- ============================================================
 
