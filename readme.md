@@ -2,7 +2,7 @@
 
 **Student Name:** M Rithvik 
 **Tool Used:** SnowSQL CLI  
-**Database:** DEMO_DB  
+**Database:** DEMO_DB
 **Schema:** DEMO_SCHEMA  
 **Warehouse:** DEMO_WH  
 
